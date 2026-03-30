@@ -40,6 +40,8 @@ The prompt uses a curated set of quality characteristics based on
 **LASR** (© Stefan Toth & Stefan Zörner, CC BY-SA 4.0), covering areas
 such as performance, maintainability, security, usability, and more.
 
+See [LASR Quality Model](https://www.lasr-reviews.org/quality-model/) for details.
+
 ## License
 
 © 2025 embarc GmbH – Licensed under
@@ -91,6 +93,8 @@ Der Prompt verwendet einen kuratierten Vorrat an Qualitätsmerkmalen auf
 Basis von **LASR** (© Stefan Toth & Stefan Zörner, CC BY-SA 4.0), der
 Bereiche wie Performanz, Wartbarkeit, Sicherheit, Benutzbarkeit und
 weitere abdeckt.
+
+Siehe [LASR-Qualitätsmodell](https://www.lasr-reviews.org/de/quality-model/) für Details dazu.
 
 ## Lizenz
 
