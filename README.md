@@ -21,7 +21,7 @@ The result is a table ready to use in your architecture documentation.
 
 1. Open `prompt_en.md`
 2. Copy the full content
-3. Paste it as a system prompt or first message into your AI tool of choice
+3. Paste it as first message into your AI tool of choice
    (e.g. Claude, ChatGPT, or another LLM)
 4. Answer the questions the AI asks – one at a time
 5. Receive your prioritized quality goals as a table
@@ -74,7 +74,7 @@ Das Ergebnis ist eine Tabelle, die direkt in die Architekturdokumentation
 
 1. `prompt_de.md` öffnen
 2. Den gesamten Inhalt kopieren
-3. Als System-Prompt oder erste Nachricht in ein KI-Tool einfügen
+3. Als erste Nachricht in ein KI-Tool einfügen
    (z.B. Claude, ChatGPT oder ein anderes LLM nach Wahl)
 4. Die Fragen der KI beantworten – eine nach der anderen
 5. Die priorisierten Qualitätsziele als Tabelle erhalten
