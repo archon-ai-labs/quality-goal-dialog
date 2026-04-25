@@ -3,7 +3,7 @@
 A structured, conversational prompt that guides you through the discovery
 of quality goals for a software system.
 
-**[Deutsche Version weiter unten](#qualitätsziele-dialog)**
+**[Deutsche Version weiter unten](#qualitätsziel-dialog)**
 
 ---
 
@@ -11,32 +11,32 @@ of quality goals for a software system.
 
 The prompt leads you step by step through a dialog with an AI. It asks
 targeted questions about your system – its type, purpose, stakeholders,
-and risks – and derives up to five prioritized quality goals from your
+and risks – and derives between three and five prioritized quality goals from your
 answers. Each goal is described in one to three sentences and assigned
-to a quality characteristic.
+to a quality attribute.
 
 The result is a table ready to use in your architecture documentation.
 
 ## How to use it
 
-1. Open `prompt_de.md`
+1. Open `prompt_en.md`
 2. Copy the full content
 3. Paste it as a system prompt or first message into your AI tool of choice
-   (e.g. Claude, ChatGPT, or any LLM of your preference)
+   (e.g. Claude, ChatGPT, or another LLM)
 4. Answer the questions the AI asks – one at a time
 5. Receive your prioritized quality goals as a table
 
 ## Example output
 
-| Priority | Goal | Description |
-|---|---|---|
-| 1 | Reliability | The system must be available 24/7 ... |
-| 2 | Security | All user data must be protected ... |
-| 3 | Usability | New users must be able to ... |
+| # | Goal                      | Quality Attribute | Description |
+|---|---------------------------|-------------------|-------------|
+| 1 | Available around the clock | Reliability       | The system is available 24/7 ... |
+| 2 | User data is protected    | Security          | All user data is protected ... |
+| 3 | Easy to get started       | Usability         | New users can ... |
 
-## Quality characteristics
+## Quality agttributes
 
-The prompt uses a curated set of quality characteristics based on
+The prompt uses a curated set of quality attributes based on
 **LASR** (© Stefan Toth & Stefan Zörner, CC BY-SA 4.0), covering areas
 such as performance, maintainability, security, usability, and more.
 
@@ -44,7 +44,7 @@ See [LASR Quality Model](https://www.lasr-reviews.org/quality-model/) for detail
 
 ## License
 
-© 2025 embarc GmbH – Licensed under
+© 2026 embarc GmbH – Licensed under
 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
 Authors: Alexander Kaserbacher, Stefan Zörner
@@ -54,7 +54,7 @@ appropriate credit and distribute your contributions under the same license.
 
 ---
 
-# Qualitätsziele-Dialog
+# Qualitätsziel-Dialog
 
 Ein strukturierter, dialogbasierter Prompt zur Erarbeitung von
 Qualitätszielen für ein Softwaresystem.
@@ -63,7 +63,7 @@ Qualitätszielen für ein Softwaresystem.
 
 Der Prompt führt Dich Schritt für Schritt durch ein Gespräch mit einer KI.
 Er stellt gezielte Fragen zu Deinem System – Art, Zweck, Stakeholder und
-Risiken – und leitet daraus bis zu fünf priorisierte Qualitätsziele ab.
+Risiken – und leitet daraus drei bis fünf priorisierte Qualitätsziele ab.
 Jedes Ziel wird in ein bis drei Sätzen beschrieben und einem
 Qualitätsmerkmal zugeordnet.
 
@@ -81,11 +81,11 @@ Das Ergebnis ist eine Tabelle, die direkt in die Architekturdokumentation
 
 ## Beispiel-Ergebnis
 
-| Prio | Ziel | Beschreibung |
-|---|---|---|
-| 1 | Zuverlässigkeit | Das System muss rund um die Uhr verfügbar sein ... |
-| 2 | Sicherheit | Alle Nutzerdaten müssen geschützt sein ... |
-| 3 | Benutzbarkeit | Neue Nutzer müssen in der Lage sein ... |
+| # | Ziel                       | Qualitätsmerkmal  | Beschreibung |
+|---|----------------------------|-------------------|--------------|
+| 1 | Rund um die Uhr verfügbar  | Zuverlässigkeit   | Das System ist 24/7 verfügbar ... |
+| 2 | Nutzerdaten sind geschützt | Sicherheit        | Alle Nutzerdaten sind geschützt ... |
+| 3 | Einfacher Einstieg         | Benutzbarkeit     | Neue Nutzer können ... |
 
 ## Qualitätsmerkmale
 
@@ -98,7 +98,7 @@ Siehe [LASR-Qualitätsmodell](https://www.lasr-reviews.org/de/quality-model/) f�
 
 ## Lizenz
 
-© 2025 embarc GmbH – Veröffentlicht unter
+© 2026 embarc GmbH – Veröffentlicht unter
 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
 Autoren: Alexander Kaserbacher, Stefan Zörner

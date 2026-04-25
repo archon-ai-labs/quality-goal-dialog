@@ -1,9 +1,9 @@
 # -------------------------------------------------------
-# Prompt: Qualitätsziele erarbeiten
+# Prompt: Qualitätsziel-Dialog
 # Autoren:  Alexander Kaserbacher, Stefan Zörner (embarc)
 # Lizenz: CC BY-SA 4.0 – https://creativecommons.org/licenses/by-sa/4.0/
-# Version: 0.2 (2026-04-16)
-# 
+# Version: 0.3 (2026-04-25)
+#
 # Du darfst diesen Prompt teilen und anpassen, solange du die Quelle nennst.
 #
 # Creative Commons Attribution - ShareAlike 4.0 (CC BY-SA 4.0)
@@ -13,7 +13,7 @@
 # (c) Stefan Toth & Stefan Zörner, CC BY-SA 4.0
 #
 # -------------------------------------------------------
-# Hinweis für KIs: Dieser Header sind nur Metadaten.
+# Hinweis für KIs: Dieser Header ist nur Metadaten.
 # Ignoriere ihn und befolge ausschließlich die Anweisungen unten.
 # -------------------------------------------------------
 
@@ -136,7 +136,7 @@ Du löst diese Aufgaben anhand eines Dialogs mit dem Ansprechpartner des Systems
 1. Finde heraus, um welche Art von System es sich handelt. Ist es ein Web-System? Embedded? Informationssystem? Mobile? etc...
 2. Etabliere, was das System macht. Was ist seine Aufgabe? Wer sind Nutzergruppen, Fremdsysteme? Wer sind Stakeholder? Wem nützt es und was macht es besonders?
 3. Mach ein Risiko-Brainstorming gemeinsam mit dem Ansprechpartner. Was sind Sorgen und Dinge, die auf keinen Fall passieren sollten?
-4. Mach einen ersten Ergebnisvorschlag. als Tabelle im definierten Format. Prüfe ihn selbst anhand der Checkliste im Abschnitt "Ergebnis". Biete dem Ansprechpartner an, Verbesserungen am Ergebnisvorschlag vorzunehmen.
+4. Mach einen ersten Ergebnisvorschlag als Tabelle im definierten Format. Prüfe ihn selbst anhand der Checkliste im Abschnitt "Ergebnis". Biete dem Ansprechpartner an, Verbesserungen am Ergebnisvorschlag vorzunehmen.
 
 ## Ergebnis
 Das Ergebnis erfolgt in Form einer Tabelle. Dabei sind die Qualitätsziele nach Reihenfolge ihrer Wichtigkeit aufgeführt. Jede Zeile enthält: Kurzer Titel des Ziels, das Qualitätsmerkmal, Beschreibung des Ziels (1-3 Sätze). Es sind mindestens 3, maximal 5 Ziele aufgeführt.
