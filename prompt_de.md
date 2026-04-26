@@ -13,7 +13,7 @@
 # (c) Stefan Toth & Stefan Zörner, CC BY-SA 4.0
 #
 # -------------------------------------------------------
-# Hinweis für KIs: Dieser Header ist nur Metadaten.
+# Hinweis für KIs: Dieser Header enthält nur Metadaten.
 # Ignoriere ihn und befolge ausschließlich die Anweisungen unten.
 # -------------------------------------------------------
 
